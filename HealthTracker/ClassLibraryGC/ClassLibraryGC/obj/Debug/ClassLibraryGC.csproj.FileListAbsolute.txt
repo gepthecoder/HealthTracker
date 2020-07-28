@@ -1,0 +1,14 @@
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\GCkniznica\ClassLibraryGC\ClassLibraryGC\bin\Debug\ClassLibraryGC.dll
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\GCkniznica\ClassLibraryGC\ClassLibraryGC\bin\Debug\ClassLibraryGC.pdb
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\GCkniznica\ClassLibraryGC\ClassLibraryGC\obj\Debug\ClassLibraryGC.csprojResolveAssemblyReference.cache
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\GCkniznica\ClassLibraryGC\ClassLibraryGC\obj\Debug\ClassLibraryGC.UtripajocaOznaka.resources
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\GCkniznica\ClassLibraryGC\ClassLibraryGC\obj\Debug\ClassLibraryGC.csproj.GenerateResource.Cache
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\GCkniznica\ClassLibraryGC\ClassLibraryGC\obj\Debug\ClassLibraryGC.dll
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\GCkniznica\ClassLibraryGC\ClassLibraryGC\obj\Debug\ClassLibraryGC.pdb
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\ClassLibraryGC\ClassLibraryGC\bin\Debug\ClassLibraryGC.dll
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\ClassLibraryGC\ClassLibraryGC\bin\Debug\ClassLibraryGC.pdb
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\ClassLibraryGC\ClassLibraryGC\obj\Debug\ClassLibraryGC.csprojResolveAssemblyReference.cache
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\ClassLibraryGC\ClassLibraryGC\obj\Debug\ClassLibraryGC.UtripajocaOznaka.resources
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\ClassLibraryGC\ClassLibraryGC\obj\Debug\ClassLibraryGC.csproj.GenerateResource.Cache
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\ClassLibraryGC\ClassLibraryGC\obj\Debug\ClassLibraryGC.dll
+C:\Users\GEP\Desktop\N1\C#\HealthTracker\ClassLibraryGC\ClassLibraryGC\obj\Debug\ClassLibraryGC.pdb
